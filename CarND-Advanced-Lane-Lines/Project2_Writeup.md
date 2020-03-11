@@ -8,7 +8,7 @@
 [image4]: ./output_images/straight_lines1_birdseye.jpg
 [image5]: ./output_images/test3_pixels.jpg
 [image6]: ./output_images/test1_final.jpg
-[video1]: ./test_videos_output/project_video.mp4
+[video1]: ./test_videos.output/project_video.mp4
 
 
 ### Camera Calibration
@@ -94,7 +94,7 @@ The main program that executes all the mentioned steps is found in cell 10 in fu
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./test_videos.output/project_video.mp4)
 
 ---
 
