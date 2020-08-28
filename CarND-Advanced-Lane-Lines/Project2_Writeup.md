@@ -29,7 +29,7 @@ The distortion correction is applied to a test image (on-road vehicle):
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
-I used a combination of color and gradient thresholds to generate a binary image. A threshold was applied to the gradient in the x-axis and to the S-channel in an HLS color space. This step can be found in cell 3 in function pipeline() in Project2.ipynb. Here is an output of this step:
+I used a combination of color and gradient thresholds to generate a binary image. A threshold was applied to the gradient in the x-axis and to the S-channel in an HSL color space. This step can be found in cell 3 in function pipeline() in Project2.ipynb. Here is an output of this step:
 
 ![Binary image example][image3]
 
